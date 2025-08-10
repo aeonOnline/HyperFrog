@@ -1,4 +1,5 @@
-python-telegram-bot
+python-dotenv
 cryptography
+web3
 solders
-solana
+base58

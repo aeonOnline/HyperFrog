@@ -1,20 +1,19 @@
-# YieldBot for Hyperliquid 🔁
+# HyperFrog 🐸
 
-A Telegram bot that automates yield farming on Hyperliquid EVM.
+**HyperFrog** is an open-source public-goods project for the [Hyperliquid Hackathon](https://hyperliquid.xyz/).
+It combines a Telegram bot and a background "yield engine" to automate swaps and yield strategies on **HyperEVM**.
 
-## 🔧 Goals
-- Let users create EVM
-- Auto-optimize yield using GlueX API
-- Fully open-source and privacy-friendly
+---
 
-## 🛠️ Current Status
-Project just started — stay tuned!
+## 📅 Progress
+- **Day 1:** Project scaffolded with basic wallet store and encryption.
+- **Day 2:** Added runnable wallet generation demo + `.env.example`.
 
-## 💡 Why?
-We’re building a **public good** to help users interact with Hyperliquid without needing to understand yield farming mechanics.
+---
 
-## 🔗 Hackathon
-Built for the Hyperliquid Hackathon, targeting:
-- 🥇 Best Use of GlueX
-- 🧱 Public Goods
-- 🧪 Precompiles / CoreWriter
+## 🛠 Setup
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/aeonOnline/HyperFrog.git
+cd HyperFrog
